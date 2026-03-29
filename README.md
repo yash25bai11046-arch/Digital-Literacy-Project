@@ -31,17 +31,21 @@ The project is divided into five modules as follows:
 * **Objective:** Explore logic-building environments and utilize workspace tools for data collections.
 * **Deliverable (Part A):** Completion of beginner-level Python programming challenges on **HackerRank**.
 * **Deliverable (Part B):** Creation of an interactive "Digital Literacy Awareness Quiz" using **Google Forms**, and directly integrated with **Google Sheets** for organized response tracking. 
-* 🔗 **Take the interactive quiz here:** https://forms.gle/3kQTHW1zjuHoWzur9
+* **Take the interactive quiz here:** https://forms.gle/3kQTHW1zjuHoWzur9
 
 ### Module-4: Email Etiquette & The Basics of Social Media Etiquette
 **Folder:** `Task-4-Email-Etiquette`
 * **Objective:** Demonstrate proper structure, tone, and formatting in professional digital communication.
-* **Deliverable:** * Draft of a formal email requesting an assignment deadline extension.
+* **Deliverable (Part A):**
+  * Draft of a formal email requesting an assignment deadline extension.
   * Draft of a professional email inquiring about a summer internship.
+* **Deliverable (Part B):**
   * A structured "Do's and Don'ts" checklist for responsible social media use as a college student.
-
+  
 ### Module-5: Awareness on Cyber Crime and Financial Fraudulent
 **Folder:** `Task-5-Cybercrime`
 * **Objective:** Analyze modern cyber threats and outline actionable safety protocols for digital transactions.
-* **Deliverable:** * A detailed case study exploring the mechanics and consequences of UPI Payment/Online Financial Fraud targeting students.
+* **Deliverable (Part A):**
+  * A structured "Do's and Don'ts" checklist for responsible social media use as a college student.
+* **Deliverable (Part B):**
   * An 8-point Cybercrime Prevention Checklist, including official reporting channels like the National Cyber Crime Portal (Helpline: 1930).
