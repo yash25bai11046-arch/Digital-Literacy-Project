@@ -19,21 +19,25 @@ The project is divided into five modules as follows:
 ### Module-1: Hands-on Training on Presentation Software
 **Folder:** `Task-1-Presentation`
 * **Objective:** Design an engaging visual infographic or slide to promote digital awareness.
-* **Deliverable:** A comprehensive Digital Literacy Awareness Infographic created using Canva, covering digital tools, definitions, and basic online safety.
+* **Deliverable:** A comprehensive Digital Literacy Awareness Infographic created using [Canva](https://www.canva.com), covering digital tools, definitions, and basic online safety.
 
 ### Module-2: Building a Digital Portfolio
 **Folder:** `Task-2-Portfolio`
 * **Objective:** Establish a professional and academic presence on key digital networking platforms.
-* **Deliverable:** Foundational profile setups on **GitHub** (version control), **LinkedIn** (professional networking), and **Kaggle** (data science and machine learning).
+* **Deliverables & My Profiles:** Foundational profile setups on the following platforms:
+  * **GitHub** (version control): [My GitHub Profile](https://github.com/yash25bai11046-arch)
+  * **LinkedIn** (professional networking): [My LinkedIn Profile](https://www.linkedin.com/in/yash-raj-9926763ba/)
+  * **Kaggle** (data science and machine learning): [My Kaggle Profile](https://www.kaggle.com/yashraj25bai11046)
 
 ### Module-3: Programming Platforms & Collaborative Learning Platforms
 **Folder:** `Task-3-Platforms`
 * **Objective:** Explore logic-building environments and utilize workspace tools for data collections.
 * **Deliverable (Part A):**
-  * Completion of beginner-level Python programming challenges on **HackerRank**.
+  * Completion of beginner-level Python programming challenges on [HackerRank](https://www.hackerrank.com). 
+  * **My HackerRank Profile:** [View My Profile](https://www.hackerrank.com/profile/yash_25bai11046)
 * **Deliverable (Part B):**
-  * Creation of an interactive "Digital Literacy Awareness Quiz" using **Google Forms**, and directly integrated with **Google Sheets** for organized response tracking. 
-* **Take the interactive quiz here:** https://forms.gle/3kQTHW1zjuHoWzur9
+  * Creation of an interactive "Digital Literacy Awareness Quiz" using [Google Forms](https://forms.google.com), and directly integrated with [Google Sheets](https://sheets.google.com) for organized response tracking. 
+* **Take the interactive quiz here:** [Link to Quiz](https://forms.gle/3kQTHW1zjuHoWzur9)
 
 ### Module-4: Email Etiquette & The Basics of Social Media Etiquette
 **Folder:** `Task-4-Email-Etiquette`
@@ -50,4 +54,4 @@ The project is divided into five modules as follows:
 * **Deliverable (Part A):**
   * A detailed case study exploring the mechanics and consequences of UPI Payment/Online Financial Fraud targeting students.
 * **Deliverable (Part B):**
-  * An 8-point Cybercrime Prevention Checklist, including official reporting channels like the National Cyber Crime Portal (Helpline: 1930).
+  * An 8-point Cybercrime Prevention Checklist, including official reporting channels like the [National Cyber Crime Portal](https://cybercrime.gov.in) (Helpline: 1930).
