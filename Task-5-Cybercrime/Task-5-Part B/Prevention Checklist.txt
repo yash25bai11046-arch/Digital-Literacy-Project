@@ -1,13 +1,18 @@
 "Stay Safe Online": Prevention Checklist for students :
 
-1.UPI Safety: Never enter your UPI PIN to receive money or in any other malicious platform.
-2.Financial safety: Do not scan random QRs or links sent via unknown sources.
-3.Always uses a strong and unique passwords other then your names.
-4.Always enable Two-Factor Authentication(2FA) on important accounts.
-5.Never click on suspicious links regarding bank or delivery services.
-6.Keep your accounts private and avoid over sharing.
-7.Always verify any urgent money request before moving further.
-8.Always keep update your OS and Apps for latest security patches.
+UPI/Financial safety :
+1.Never enter your UPI PIN to receive money or in any other malicious platform.
+2.Do not scan random QRs or links sent via unknown sources.
+
+General saftey checklist :
+1.Always uses a strong and unique passwords other then your names.
+2.Always enable Two-Factor Authentication(2FA) on important accounts.
+3.Never click on suspicious links regarding bank or delivery services.
+4.Keep your accounts private and avoid over sharing.
+5.Always verify any urgent money request before moving further.
+6.Always keep update your OS and Apps for latest security patches.
+7.Be caution with open or public Wi-Fi.
+8.Always logout from shared devices. 
 
 How to report cyber crime :
 
